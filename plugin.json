@@ -1,0 +1,12 @@
+{
+  "ID":"8582c1d6fe3c11e6bc6492361f002671",   
+  "ActionKeyword":"dash",                     
+  "Name":"Wox-Dash-Velocity",                              
+  "Description":"Velocity (Dash docsets for windows) integration from Wox (a la Alfred)",    
+  "Author":"etiago",                     
+  "Version":"1.0.0",                         
+  "Language":"python",                       
+  "Website":"http://www.tiagoespinha.net",         
+  "IcoPath": "Images\\pic.png",              
+  "ExecuteFileName":"wox-dash-velocity.py"   
+}
